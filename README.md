@@ -1,4 +1,4 @@
-# calc
+# Calculator
 
 ## Project setup
 ```
